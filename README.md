@@ -17,11 +17,11 @@ To write a program to predict the marks scored by a student using the simple lin
 7. Once the model parameters are optimized, use the final equation to predict marks for any new input data
 
 ## Program:
-```
+
 Program to implement the simple linear regression model for predicting the marks scored.
 Developed by: Bakkiyalakshmi E
 RegisterNumber:  212223220012
-
+```
 import numpy as np
 import pandas as pd
 from sklearn.metrics import mean_absolute_error,mean_squared_error
@@ -75,9 +75,15 @@ print(ans)
 ```
 
 ## Output:
-![simple linear regression model for predicting the marks scored](sam.png)
+
  # Head Values:
  ![image](https://github.com/user-attachments/assets/296fd908-c78c-4bed-9fe3-a21834b9de8f)
+ # Tail Value:
+ ![image](https://github.com/user-attachments/assets/32e4cafc-d5d3-42d2-aaf4-4bed8a296f7e)
+ # X and Y Values:
+ ![image](https://github.com/user-attachments/assets/846dd26d-d3a4-407a-b678-0dc59e741c55)
+
+
 
 
 
