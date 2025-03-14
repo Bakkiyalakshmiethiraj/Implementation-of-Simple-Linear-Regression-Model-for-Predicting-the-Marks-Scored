@@ -86,7 +86,7 @@ print(ans)
  ![image](https://github.com/user-attachments/assets/8571ea7f-75bb-43db-9829-e4cc2c41dd6c)
  # MSE,MAE,RMSE:
  ![image](https://github.com/user-attachments/assets/18a5e28c-8daf-41d3-95a5-f541d6806a7a)
- # Testing test:
+ # Testing set:
  ![image](https://github.com/user-attachments/assets/4c43f5b1-15c7-4e97-a43a-df79198bae01)
  # array[13]:
  ![image](https://github.com/user-attachments/assets/966812c7-4e9f-4fdb-b9a3-a86e8dedc84a)
