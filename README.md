@@ -82,10 +82,14 @@ print(ans)
  ![image](https://github.com/user-attachments/assets/32e4cafc-d5d3-42d2-aaf4-4bed8a296f7e)
  # X and Y Values:
  ![image](https://github.com/user-attachments/assets/846dd26d-d3a4-407a-b678-0dc59e741c55)
-
-
-
-
+ # Y_pred,Y_test,X_train.shape,X_test.shape,Y_train.shape,Y_test.shape:
+ ![image](https://github.com/user-attachments/assets/8571ea7f-75bb-43db-9829-e4cc2c41dd6c)
+ # MSE,MAE,RMSE:
+ ![image](https://github.com/user-attachments/assets/18a5e28c-8daf-41d3-95a5-f541d6806a7a)
+ # Testing test:
+ ![image](https://github.com/user-attachments/assets/4c43f5b1-15c7-4e97-a43a-df79198bae01)
+ # array[13]:
+ ![image](https://github.com/user-attachments/assets/966812c7-4e9f-4fdb-b9a3-a86e8dedc84a)
 
 ## Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
